@@ -1,0 +1,24 @@
+{
+  "name": "screensharer",
+  "version": "1.0.0",
+  "description": "a screen sharing app that allows you to watch videos and netflix with friends",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianbixby/screenSharer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianbixby/screenSharer/issues"
+  },
+  "homepage": "https://github.com/brianbixby/screenSharer#readme",
+  "dependencies": {
+    "bower": "^1.8.0",
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1"
+  }
+}
