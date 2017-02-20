@@ -8,4 +8,3 @@ gulp.task('browser-sync', function() {
         }
     });
 });
-// gulp browser-sync

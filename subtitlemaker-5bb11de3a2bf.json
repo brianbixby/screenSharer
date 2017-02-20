@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "subtitlemaker-159302",
+  "private_key_id": "5bb11de3a2bf9462d2870cef894385a52758dc87",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDGN+k0KxeC63iv\ngeaiQCZZjU+Bt+qJxJyz2WE1QaiVEFp9lS94l1PcIZExXWzRK+Pg0jtog8ueH5bG\nCrxih+ceCa8YcbWDejAMVXH+nshm3ZT4d2YG/+CNJp/uaMFBZu49Coku8lZFAKjI\nkyZ9Nt3k1BdWnILYWtC6R0dbrB26yGQJYhgFHuh4SrwdGYXrnfKJ0nnHeZPrFE4X\n+WXxx4r6KxKk8HZVEtawql2niMysTqr2R3Jc0AvO7S7E2jEf8vSwftNISC+tEVAd\nBVGs+OA2Q4Zrl+bgVvkThCr8c1TUwRkG6jPbRSsHQxco5aS6yNQT7iw91vS1TOk0\nJV8TWGZfAgMBAAECggEAFDEV3G6XUorSHG7LI7QNNAolEz288pPIsrluIZKyrZyg\n2zIbR9mCfWYd+D1gHF6wM/K2gosKbu0g2sO1NQRLEtBBuee7ac1En70Eg7+BApmH\n11eyWPwvz7EjkZGyPgtSMX2lQ9cD2ruadfQnc5HnQKwqRHRlD80QfilMp5X84U3i\nkNw9ChLEhnhCbxbjYjN37lS4Kp7fWADycTeyTRRSQJ9S/33Znb7Sm4rA02mKUton\nMrK8MvyAs9lzmxiIGvXjRikHc3LWmR9aw16Zchymr4u2WCU7mMZjrYRROKVUVnPV\nQrMFeOdLxt6Qrn8NZVT6CoHXUz9rCrwEabFxYi/H4QKBgQDsJxk8IH9K8BBpGXrc\nNuNJtR1sduLEfvtCVGrXMX7H7Joy1xsJexvCx530HIndaL7kAZAdtkpQxuWFiHPY\nSDoI6wufK0eldSRnPB9TGj/ivzLwZPPuKP71IuSL5rMZxxpeHyAo8M1HMimOayF1\nvpPBa8S+t/bTTlmzxofu0TE9nQKBgQDW4KSp9Ea0pVdHiQOmIuddwambEW5lBBdr\nFiZGK42oU+jHTsxVPuA1t8J3awA/n2vOcGyFXGkPOfNvY4H8rXcIc9ZhzcR84B06\n/RGtjvYBwJkGxQIBsF2FGAsxYKiSVoCzmWYHZBLIcmIaQ2AG79hzxQC14QjX2RrQ\nlqatUegxKwKBgBb3voaQipDZRF9UcRSV6gkzKkdwUKHXz8wltbZ0Q+Zh5qVnMmP7\nqzmIfJ5PYEE+fMJkPIYHQrcUgSI5oTq525secSTr6q329LFtsYY9mVUOT3/98ZOK\nPTHOUPgiWez55mCdGl2g/fYctNn7JWf0Px6iwqHh9omapzLK7lGV2vopAoGBAKdo\nf4GVuhx1kKk/+yLNoLov7qbMjtiOtnwM1qbmucfCD+Jv5swnX2EamJyXNatb1g8R\nEctY8tUVDi7jNNuafdmM/iJWwNWVedCCZ+pzLgCxf8eBZ43PTR0rXVUL/Gl+kWjb\ng10Qv32BeCMECOV+qYGQo3wQJeac08JdDOCNprvfAoGANuXxBCc/M14yhYrcCnK+\n0QI54WSR1Dui/+QNGLpUnTZbnUgF+8o1zJjesYOB5Op0GDYiig2omVwdMXET3s4G\nTYdfMlE0UChCWIWReV8FOHWQaxSJrz6Hip+0d67Q6l/kTTPoI/rU1MJLnQEjiJf6\nrs4V9j56/XHAe2SmQDzL3MI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "brian-572@subtitlemaker-159302.iam.gserviceaccount.com",
+  "client_id": "113934435355796403744",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/brian-572%40subtitlemaker-159302.iam.gserviceaccount.com"
+}
